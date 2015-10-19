@@ -1,0 +1,72 @@
+body {
+		margin:0px;
+		font-size: 10pt;
+		/*font-family: "Microsoft Yahei","宋体",Tahoma,Arial,Helvetica,STHeit;*/
+		text-align:center;
+		padding:0px;
+	 }
+h3 {
+color:black;
+font-size:12px;
+font-weight:bold;
+margin:0;
+padding:0
+}
+a:focus 
+{
+   outline:none;  -moz-outline:none;
+}
+a:link {color: #004d00; text-decoration: none}
+a:active {color: blue; text-decoration: underline}
+a:visited {color: #004d00; text-decoration: none}
+a:hover {color: blue; text-decoration: underline;position:relative;left:1px;top:1px}
+.pagelist {
+	clear:both;
+	font-size:10pt;
+	height:30px;
+	line-height:30px;
+}
+.pagelist a {
+	padding:4px 5px 0;
+	margin:0px 5px 0 0;
+	border:0px solid #cfe7ff;
+	text-decoration:none
+	
+}
+.pagelist a:visited {
+	color:blue;
+	text-decoration:none
+}
+.pagelist a:hover {
+	color:blue;
+	border:0px solid #cfe7ff;
+	
+text-decoration:none
+}
+
+td {font-size:10pt; line-height:180%;}
+.xt1{font-size:9pt;font-family:arial;}
+.xt{font-size:10pt;line-height:180%; border-bottom:1px #aaaaaa dashed;font-family:"宋体", "arial", "ms sans serif";}
+.bt{font-size:10pt;line-height:180%; border-bottom:1px #aaaaaa solid;font-family:"宋体", "arial", "ms sans serif";}
+.inp{font-size:11pt; height: 30px;padding-left:4px;padding-top:3px;}
+.bd{border:1px solid #bbbbbb;}
+
+a.tt:link {color: black; text-decoration: none}
+a.tt:active {color: blue; text-decoration: underline}
+a.tt:visited {color: black; text-decoration: none;}
+a.tt:hover {color: blue; text-decoration: underline;position:relative;left:1px;top:1px}
+a.bl:link {color: blue; text-decoration: none}
+a.bl:active {color: red; text-decoration: none}
+a.bl:visited {color: blue; text-decoration: none}
+a.bl:hover {color: red; text-decoration: underline;position:relative;left:1px;top:1px}
+a.tl:link {color: #123b8d; text-decoration: none}
+a.tl:active {color: blue; text-decoration: none}
+a.tl:visited {color: #123b8d; text-decoration: none}
+a.tl:hover {color: blue; text-decoration: underline;position:relative;left:1px;top:1px}
+h1 {font-size:22px;margin:0px;padding: 0px;color: #cc0000;}
+p {font-size:10pt;line-height:180%;}
+div,form,img,ul,li,img{margin:0; padding:0; border:0;}
+table{background-color:#ffffff;} 
+.div1{width:760px;margin:auto;height:30px;overflow:hidden;margin-top:0px;text-align:left;line-height:30px;border-bottom:1px #aaaaaa dashed;}
+.divyj{width:760px;margin:auto;height:30px;overflow:hidden;margin-top:5px;text-align:left;line-height:30px;border-bottom:1px #aaaaaa dashed;}
+
